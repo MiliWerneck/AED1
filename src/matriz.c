@@ -23,7 +23,7 @@ void matrizImprime(const int linhas, const int colunas, int matriz[linhas][colun
     }
 }
 
-int matrizCaminho(const int linhas, const int colunas, int matriz[linhas][colunas]) // 5 + 5*n^2
+int matrizCaminho(const int linhas, const int colunas, int matriz[linhas][colunas]) 
 {
     int soma = 0;
     int i = 0; 
