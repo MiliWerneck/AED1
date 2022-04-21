@@ -25,7 +25,7 @@ make run
 
 A matriz é inicializada pela função matrizInicia que gera valores aleatórios de 0 a 99. 
 
-Pode-se mudar o tamanho da matriz através do MAXTAM que se encontra no cabeçalho matrix.h.
+Pode-se mudar o tamanho da matriz através do MAXTAM que se encontra no cabeçalho matrixzh.
 
 Após a inicialização inicia-se o percurso através da matriz de acordo com as regras citadas acima. 
 
