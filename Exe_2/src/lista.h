@@ -7,7 +7,7 @@
 #include<string.h>
 
 #define MAXTAM 5
-#define TAMSTR 100
+#define TAMSTR 10
 
 typedef struct Item{
 	int val;

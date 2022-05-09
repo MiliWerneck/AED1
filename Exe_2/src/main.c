@@ -5,23 +5,24 @@ int menu();
 int main(){
 	Lista l;
 	Item aux;
-	//int opcao;
+	int opcao;
 
 	FLVazia(&l);
 	
 	aux.str = (char*)malloc(TAMSTR);
 
-	/*do {
+	do {
 		opcao = menu();
 
 		switch (opcao) {
 		case 1:
 			if(l.count < MAXTAM) {
-				printf("Insira o nome: (Sem espacos) \n");
+				for(int i=0; i<MAXTAM;i++){
+					printf("Insira o nome: (Sem espacos) \n");
 		
-				fgets(aux.str, TAMSTR, stdin);
-				LInsert(&l, aux);
-
+					scanf("%s", aux.str);
+				 	LInsert(&l, aux);
+				}
 			} else {
 				printf("Lista cheia\n");
 			}
@@ -32,6 +33,7 @@ int main(){
 			else {
 				LBuscaRepetido(&l);
 				LImprime(&l);
+				printf("\n");
 			}
 		break;
 		case 0:
@@ -46,8 +48,8 @@ int main(){
 			break;
 		}
 	} while(opcao != 0);
-	*/
 
+/*
 	while (l.count<MAXTAM){
 		
 
@@ -66,14 +68,15 @@ int main(){
 	for(int i=l.first; i<l.last; i++)
 		free(l.vet[i].str);
 	free(aux.str);
-
+*/
 	return 0;
 }
 
 int menu() {
 	int valor;
 
-	printf("menu\n");
+	printf("\n   - Menu - \n");
+	printf(" --------------- \n");
 	printf("1 - Adicionar\n");
 	printf("2 - Imprimir\n");
 	printf("0 - Sair\n");

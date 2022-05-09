@@ -85,8 +85,9 @@ void LBuscaRepetido(Lista *l){
 }
 
 void LImprime(Lista *l){
+	printf ("Lista sem os repetidos: \n");
 	for(int i=l->first; i<l->last; i++)
-		printf("%s", l->vet[i].str);
+		printf("%s , ", l->vet[i].str);
 	printf("\n");
 }
 
