@@ -49,28 +49,9 @@ int main(){
 		}
 	} while(opcao != 0);
 
-/*
-	while (l.count<MAXTAM){
-		
-
-		printf("Insira o nome: (Sem espacos) ");
-		
-		fgets(aux.str, TAMSTR, stdin);
-		LInsert(&l, aux);
-		
-	}
-	LImprime(&l);
-
-	LBuscaRepetido(&l);
-
-	LImprime(&l);
-
-	for(int i=l.first; i<l.last; i++)
-		free(l.vet[i].str);
-	free(aux.str);
-*/
 	return 0;
 }
+
 
 int menu() {
 	int valor;
