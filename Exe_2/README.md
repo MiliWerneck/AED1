@@ -24,15 +24,15 @@ Após a execução temos as telas abaixo:
 </p>
 
 <p align="center">
-<img src="imgs/tela2.png"/> 
+<img src="imgs/tela2.PNG"/> 
 </p>
 
 <p align="center">
-<img src="imgs/tela3.png"/> 
+<img src="imgs/tela3.PNG"/> 
 </p>
  
 <p align="center">
-<img src="imgs/tela4.png"/
+<img src="imgs/tela4.PNG"/
 </p>
 
 # Compilação e Execução
