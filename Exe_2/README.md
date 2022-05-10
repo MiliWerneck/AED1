@@ -22,11 +22,19 @@ Após a execução temos as telas abaixo:
 
 <p align="center">
 <img src="imgs/tela1.png"/> 
-<img src="imgs/tela2.png"/> 
-<img src="imgs/tela3.png"/> 
-<img src="imgs/tela4.png"/> 
 </p>
 
+<p align="center">
+<img src="imgs/tela2.png"/> 
+</p>
+
+<p align="center">
+<img src="imgs/tela3.png"/> 
+</p>
+ 
+<p align="center">
+<img src="imgs/tela4.png"/
+</p>
 
 # Compilação e Execução
 
