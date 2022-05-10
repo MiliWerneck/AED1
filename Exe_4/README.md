@@ -9,7 +9,7 @@ Em uma lista A temos um conjunto de elementos inteiros positivos ou não <a1; a2
 </p>
 
 <p align="justify">
-Para a execução deste problema foi realizadaa leitura de uma lista já fornecida e feita a comparação com o número anterior para saber se era o maior que o próximo a ser somado.
+Para a execução deste problema foi realizada leitura de uma lista fornecida, e feita a comparação com o número anterior para saber se era o maior que o próximo a ser somado.
 Ao final, fez-se a soma dos valores máximos, conforme apresentado na figura abaixo.
 </p>
 
