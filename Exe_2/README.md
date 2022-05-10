@@ -21,10 +21,10 @@ Após a execução temos as telas abaixo:
 </p>
 
 <p align="center">
-<img ="imgs/tela1.png"/> 
-<img ="imgs/tela2.png"/> 
-<img ="imgs/tela3.png"/> 
-<img ="imgs/tela4.png"/> 
+<img src="imgs/tela1.png"/> 
+<img src="imgs/tela2.png"/> 
+<img src="imgs/tela3.png"/> 
+<img src="imgs/tela4.png"/> 
 </p>
 
 
