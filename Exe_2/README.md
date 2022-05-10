@@ -17,11 +17,14 @@ Crie uma lista linear que consiga armazenar um conjunto de 100 nomes quaisquer, 
 
 
 <p align="justify">
-Após a execução termos a tela abaixo:
+Após a execução temos as telas abaixo:
 </p>
 
 <p align="center">
+<img src="imgs/tela1.png"/> 
 <img src="imgs/tela2.png"/> 
+<img src="imgs/tela3.png"/> 
+<img src="imgs/tela4.png"/> 
 </p>
 
 
