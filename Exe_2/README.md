@@ -20,7 +20,7 @@ Após a execução temos as telas abaixo:
 </p>
 
 <p align="center">
-<img src="imgs/tela1.png"/> 
+<img src="imgs/tela1.PNG"/> 
 </p>
 
 <p align="center">
