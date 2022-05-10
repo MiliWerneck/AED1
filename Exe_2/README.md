@@ -2,10 +2,6 @@
 
 
 <p align="justify">
-Das estruturas tratadas em algoritmos e estruturas de dados I, o tipo lista é a mais flexível. Nela não há regras de inserção e remoção.
-</p>
-
-<p align="justify">
 Crie uma lista linear que consiga armazenar um conjunto de 100 nomes quaisquer, os quais serão salvos de forma aleatória. Feito a estrutura crie as seguintes ações:
 </p>
 
