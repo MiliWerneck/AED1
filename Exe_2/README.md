@@ -11,7 +11,7 @@ Crie uma lista linear que consiga armazenar um conjunto de 100 nomes quaisquer, 
 
 >*Como você gerenciaria os espaços em branco para novas inserções? Qual seria o custo dessas novas inserções?
 <p align="justify">
- Para novas inserções o mais adequado seria a alocação encadeada com o uso de apontadores. Não é preciso movimentar células para abrir espaço para um nova célula, como fizemos para inserir um novo elemento em um vetor. Basta mudar os valores de alguns ponteiros. O tempo que a função insere consome não depende do ponto da lista em que é feita a inserção: tanto faz inserir uma nova célula na parte inicial da lista quanto na parte final.  Isso é bem diferente do que ocorre com a inserção em um vetor.
+ Para novas inserções o mais adequado seria a alocação encadeada com o uso de apontadores. Não é preciso movimentar células para abrir espaço para um nova célula, como fizemos para inserir um novo elemento em um vetor. Basta mudar os valores de alguns ponteiros. O tempo que a função insere consome não depende do ponto da lista em que é feita a inserção: tanto faz inserir uma nova célula na parte inicial da lista quanto na parte final. 
  </p>
 
 
