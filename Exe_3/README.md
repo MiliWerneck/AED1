@@ -15,6 +15,14 @@ Para a solução deste exercício foi utilizada uma "entrada.txt", que contém a
 As Listas "codon" e "anticodon" são criadas e os arquivos lidos são comparados, imprimindo em tela a "Lista inicial de Entrada", já tokenizada, logo após imprime as "Entradas teste", abaixo disto é apresentado o resultado das comparações feitas.
 </p>
 
+<p align="center">
+<img src="imgs/tela1.PNG"/> 
+</p>
+
+<p align="justify">
+OBSERVAÇÕES: A leitura do arquivo teste (entrada.txt) lê somente uma linha. as cadeias de teste (entrada2.txt), lê somente uma linha, por isso os testes são separados com espaços entre eles.
+</p>
+  
 # Compilação e Execução
 
 Makefile realiza o procedimento de compilação e execução.
