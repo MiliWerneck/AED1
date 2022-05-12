@@ -22,7 +22,7 @@ void LInsert(Lista *l, Item d){
 		printf("LISTA CHEIA!\n");
 	}else{
 
-		l->vet[l->last].str = malloc(sizeof(TAMSTR));
+		l->vet[l->last].str = malloc(sizeof(MAXTAM));
 		strcpy(l->vet[l->last].str, d.str);
 
 		l->last ++;
@@ -81,11 +81,11 @@ void LBuscaRepetido(Lista *l){
 			LRemove(l,aux,i+1);
 			
 	}
-
 }
 
 void LImprime(Lista *l){
-	printf ("Lista sem os repetidos: \n");
+	printf("\n");
+	printf ("Lista sem os nomes repetidos: \n");
 	for(int i=l->first; i<l->last; i++)
 		printf("%s , ", l->vet[i].str);
 	printf("\n");

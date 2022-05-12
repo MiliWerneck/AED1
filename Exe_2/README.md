@@ -34,6 +34,9 @@ Após a execução temos as telas abaixo:
 <p align="center">
 <img src="imgs/tela4.PNG"/
 </p>
+<p align="justify">
+OBSERVAÇÕES: A leitura do arquivo teste (entrada.txt) lê somente uma linha, por isso os nomes devem ser separados por espaços entre eles.
+</p>
 
 # Compilação e Execução
 

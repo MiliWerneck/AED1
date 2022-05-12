@@ -6,8 +6,8 @@
 #include<stdbool.h>
 #include<string.h>
 
-#define MAXTAM 5
-#define TAMSTR 10
+#define MAXTAM 100
+#define TAMSTR 500
 
 typedef struct Item{
 	int val;
@@ -28,5 +28,8 @@ void Swap(Item *a, Item *b);
 void LImprime(Lista *l);
 void LBuscaRepetido(Lista *l);
 int checkAll(Lista *l);
+
+void lerTeste(Lista *l);
+void tokenizar(char *str, Lista *l);
 
 #endif
