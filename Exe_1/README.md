@@ -15,7 +15,11 @@ Uma lista é uma série de elementos ligados. Uma lista encadeada ou lista ligad
 </p>
 
 <p align="justify">
- > Inserção: Inserir *y, após *x1.
+ > Inserção: Inserir y, após x1.
+</p>
+
+<p align="center">
+<img src="/imgs/ListaInserir.PNG"/> 
 </p>
 
 <p align="justify">
