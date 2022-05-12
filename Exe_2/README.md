@@ -20,20 +20,14 @@ Após a execução temos as telas abaixo:
 </p>
 
 <p align="center">
-<img src="imgs/tela1.PNG"/> 
+<img src="imgs/tela11.PNG"/> 
 </p>
 
 <p align="center">
-<img src="imgs/tela2.PNG"/> 
+<img src="imgs/tela22.PNG"/> 
 </p>
 
-<p align="center">
-<img src="imgs/tela3.PNG"/> 
-</p>
- 
-<p align="center">
-<img src="imgs/tela4.PNG"/
-</p>
+
 <p align="justify">
 OBSERVAÇÕES: A leitura do arquivo teste (entrada.txt) lê somente uma linha, por isso os nomes devem ser separados por espaços entre eles.
 </p>
