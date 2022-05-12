@@ -3,7 +3,7 @@
 
 
 <p align="justify">
-1- O problema da máxima cadeia. Elabore um programa que receba uma cadeias de
+1- Elabore um programa que receba uma cadeias de
 DNA. Cada posição da cadeia deve conter um códon, ou seja, uma tríade de nu cleotídeos! T,
 A, G, C. Feito isso, leia de um arquivo uma sequência de nucleotídios (i.e.,
 ACGTGGCTCTCTAACGTACGTACGTACGGGGTTATATTCGAT) e tente identificar a
