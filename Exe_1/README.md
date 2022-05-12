@@ -2,7 +2,7 @@
 
 
 <p align="justify">
-Faça um diagrama para representar uma inserção, remoção e pesquisa em uma
+1- Faça um diagrama para representar uma inserção, remoção e pesquisa em uma
 lista linear.
 </p>
 
@@ -19,7 +19,7 @@ Uma lista é uma série de elementos ligados. Uma lista encadeada ou lista ligad
 </p>
 
 <p align="center">
-<img src="/imgs/ListaInserir.PNG"/> 
+<img src="imgs/ListaInserir.PNG"/> 
 </p>
 
 <p align="justify">
@@ -27,7 +27,7 @@ Uma lista é uma série de elementos ligados. Uma lista encadeada ou lista ligad
 </p>
 
 <p align="center">
-<img src="/imgs/ListaRemove.PNG"/> 
+<img src="imgs/ListaRemove.PNG"/> 
 </p
  
 <p align="justify">
@@ -35,6 +35,6 @@ Uma lista é uma série de elementos ligados. Uma lista encadeada ou lista ligad
 </p>
 
 <p align="center">
-<img src="/imgs/ListaPesquisa.PNG"/> 
+<img src="imgs/ListaPesquisa.PNG"/> 
 </p
  
