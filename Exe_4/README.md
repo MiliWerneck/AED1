@@ -1,4 +1,4 @@
-# Listas Lineares: Implementação em C
+# Listas Lineares: Exercício 04
 
 
 <p align="justify">
