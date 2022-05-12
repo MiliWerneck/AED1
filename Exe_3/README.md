@@ -4,12 +4,17 @@
 
 <p align="justify">
 1- O problema da máxima cadeia. Elabore um programa que receba uma cadeias de
-DNA. Cada posição da cadeia deve conter um códon, ou seja, uma tríade de nucleotídeos!T,
+DNA. Cada posição da cadeia deve conter um códon, ou seja, uma tríade de nu cleotídeos! T,
 A, G, C. Feito isso, leia de um arquivo uma sequência de nucleotídios (i.e.,
 ACGTGGCTCTCTAACGTACGTACGTACGGGGTTATATTCGAT) e tente identificar a
 maior cadeia da lista que se relaciona a essa entrada. 
 </p>
 
+<p align="justify">
+> Para a solução deste exercício foi utilizada uma "entrada.txt", que contém a sequência inicial para comparação, lida em "lerarquivo.c", os dados de teste são lidos pelo mesmo arquivo em C, mas do arquivo "entrada2.txt", com as funções "LerEntrada" e "LerTeste", na função "LerTeste", foi usada a função "Tokenizar" para quebrar as cadeias lidas en tríades.
+  
+> As Listas "codon" e "anticodon" são criadas e os arquivos lidos são comparados, imprimindo em tela a "Lista inicial de Entrada", já tokenizada, logo após imprime as "Entradas teste", abaixo disto é apresentado o resultado das comparações feitas.
+</p>
 
 # Compilação e Execução
 
