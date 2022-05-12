@@ -6,7 +6,7 @@ Uma lista é uma série de elementos ligados. Uma lista encadeada ou lista ligad
 </p>
 
 <p align="center">
-<img src="/imgs/lista.PNG"/> 
+<img src="/imgs/Lista.PNG"/> 
 </p>
 
 <p align="justify">
