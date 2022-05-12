@@ -17,7 +17,7 @@ Ao final, fez-se a soma dos valores máximos, conforme apresentado na figura aba
 
 # Compilação e Execução
 
-A lista linear disponibilizada possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes de execução:
+Makefile realiza o procedimento de compilação e execução.
 
 
 | Comando                |  Função                                                                                           |                     
