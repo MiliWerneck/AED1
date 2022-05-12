@@ -23,12 +23,18 @@ Uma lista é uma série de elementos ligados. Uma lista encadeada ou lista ligad
 </p>
 
 <p align="justify">
-  
-
+ > Remoção: remover x2.
 </p>
 
+<p align="center">
+<img src="/imgs/ListaRemove.PNG"/> 
+</p
+ 
 <p align="justify">
-  
-
+ > Pesquisa: Pesquisar x3
 </p>
 
+<p align="center">
+<img src="/imgs/ListaPesquisa.PNG"/> 
+</p
+ 
