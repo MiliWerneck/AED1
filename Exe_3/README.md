@@ -1,14 +1,9 @@
-# Listas Lineares: Implementação em C
-# Exercício 3 da Lista 02
+# Listas Lineares: Exercício 03
 
-</a> 
-</div>
 
-<p> </p>
-<p> </p>
 
 <p align="justify">
-O problema da máxima cadeia. Elabore um programa que receba uma cadeias de
+1- O problema da máxima cadeia. Elabore um programa que receba uma cadeias de
 DNA. Cada posição da cadeia deve conter um códon, ou seja, uma tríade de nucleotídeos!T,
 A, G, C. Feito isso, leia de um arquivo uma sequência de nucleotídios (i.e.,
 ACGTGGCTCTCTAACGTACGTACGTACGGGGTTATATTCGAT) e tente identificar a
