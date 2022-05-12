@@ -47,38 +47,6 @@ void LRemove(Lista *l, Item d, int indice){
 	}
 }
 
-int checkAll(Lista *l) {
-	Item aux;
-	int check = 0;
-
-	aux.str = (char*)malloc(TAMSTR);
-	strcpy(aux.str, l->vet[l->first].str);
-
-	for(int j=l->first+1; j<l->last; j++){
-		if(strcmp(l->vet[j].str,aux.str) != 0){
-			check = -1;
-			break;
-		}
-	}
-	return check;
-}
-
-void LBuscaRepetido(Lista *l){
-	if(checkAll(l) == 0)
-		l->last = 1;
-
-	Item aux;
-	aux.str = (char*)malloc(TAMSTR);
-	
-	for(int i=l->first; i<l->last; i++){
-		strcpy(aux.str, l->vet[i].str);
-			
-		for(int j=0; j<l->last; j++)
-			LRemove(l,aux,i+1);
-	}
-
-}
-
 void LImprime(Lista *l){
 	for(int i=l->first; i<l->last; i++)
 		printf("%s ", l->vet[i].str);

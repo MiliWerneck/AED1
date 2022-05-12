@@ -26,8 +26,6 @@ void LInsert(Lista *l, Item d);
 void LRemove(Lista *l, Item d, int indice);
 void Swap(Item *a, Item *b);
 void LImprime(Lista *l);
-void LBuscaRepetido(Lista *l);
-int checkAll(Lista *l);
 
 void lerTeste(Lista *l);
 void lerEntrada(Item *item);

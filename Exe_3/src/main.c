@@ -1,8 +1,6 @@
 #include "lista.h"
 
-const char* filename = "src/files/entrada.txt";
-
-int main(int argc, char *argv[]){
+int main(){
 	Lista codon, anticodon;
 	Item item, aux;
 
@@ -14,7 +12,7 @@ int main(int argc, char *argv[]){
 	lerEntrada(&item);
 	lerTeste(&anticodon);
 		
-	for(int i=0; i< strlen(item.str);i += 3){
+	for(int i=0; i < strlen(item.str);i += 3){
 		strncpy(aux.str,item.str + i, 3);
 		LInsert(&codon, aux);
 	}
