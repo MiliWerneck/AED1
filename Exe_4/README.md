@@ -14,7 +14,7 @@ Ao final, fez-se a soma dos valores máximos, conforme apresentado na figura aba
 </p>
 
 <p align="center">
-<img src="imgs/tela.png"/> 
+<img src="imgs/tela.PNG"/> 
 </p>
 
 
