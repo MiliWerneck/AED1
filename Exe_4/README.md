@@ -1,11 +1,8 @@
 # Listas Lineares: Implementação em C
 
-<p> </p>
-
-<p> </p>
 
 <p align="justify">
-Em uma lista A temos um conjunto de elementos inteiros positivos ou não <a1; a2; . . . ; an>. Elabore uma função que consiga encontrar neste conjunto a máxima soma.
+1- Em uma lista A temos um conjunto de elementos inteiros positivos ou não <a1; a2; . . . ; an>. Elabore uma função que consiga encontrar neste conjunto a máxima soma.
 </p>
 
 <p align="justify">
