@@ -1,4 +1,4 @@
-# Hash Aberta
+# Hash - Por endereçamento Aberto e Fechado
 <p align="left">Marinêz Werneck Magalhães</p>
 
 ## Definição do Projeto
